@@ -7,22 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99171f8c-aa1d-45ca-ae0a-ea49db1ab9bc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/Debug/net6.0/SyntaxAndSyntaxSugarExercise.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/SyntaxAndSyntaxSugarExercise.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/SyntaxAndSyntaxSugarExercise.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/SyntaxAndSyntaxSugarExercise.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/SyntaxAndSyntaxSugarExercise.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxAndSyntaxSugarExercise/obj/project.nuget.cache" afterDir="false" />
-    </list>
+    <list default="true" id="99171f8c-aa1d-45ca-ae0a-ea49db1ab9bc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737223243547</updated>
-      <workItem from="1737223246661" duration="679000" />
+      <workItem from="1737223246661" duration="1847000" />
     </task>
     <servers />
   </component>
